@@ -5,9 +5,6 @@
 <p align='left'>
   I'm a front-end developer from Leipzig, Germany. Working primarily with React and its ecosystem.
 </p>
-<p align='left'>
-  Currently learning the Go programming language and microservices. 
-</p>
 <p align='left'> 
   You can check out my resume <a href='https://drive.google.com/file/d/1X8NnWDrz5WLv8o9jX8-SF8NdlnsP7Gs6/view?usp=sharing ' target=_blank><u>here</u>.</a>
 </p>
